@@ -1,0 +1,9 @@
+https://images.unsplash.com/photo-1522199755839-a2bacb67c546?q=80&w=2072&auto=format&fit=crop -> images/hero-bg.jpg
+https://i.postimg.cc/RCnst2Pt/image.png -> images/about.jpg
+https://i.postimg.cc/tTnn4K3R/Instagram-45.png -> images/project1.png
+https://i.postimg.cc/kGz0g79x/Instagram-46.png -> images/project2.png
+https://i.postimg.cc/mkb2C020/Instagram-47.png -> images/project3.png
+https://i.postimg.cc/W340X88X/Instagram-48.png -> images/project4.png
+https://i.postimg.cc/sX2f404J/Instagram-49.png -> images/project5.png
+https://i.postimg.cc/Qd20X80K/Instagram-50.png -> images/project6.png
+
